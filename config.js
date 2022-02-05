@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281276698054']
+global.owner = ['6281331222400']
 global.packname = ' '
 global.author = 
 global.sessionName = 'hisoka'
