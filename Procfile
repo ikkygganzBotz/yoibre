@@ -1,3 +1,1 @@
-worker: node index
-
-worker2 : npm start
+worker : npm i ffmpeg && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
